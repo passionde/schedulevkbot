@@ -5,7 +5,7 @@ import shutil
 import psycopg2
 import vk_api
 
-import config
+import admin.config as config
 import json
 
 
