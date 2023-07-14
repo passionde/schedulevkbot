@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 /bot/config.py
 /admin/config.py
+.idea
